@@ -1,4 +1,4 @@
-# Awesome .NET Core In Chinese [![Awesome .Net Core In Chinese](netcore.png)](https://github.com/AvensLab/awesome-dotnet-core-cn)
+# Awesome .NET Core In Chinese [![Awesome .Net Core In Chinese](netcore.png)](https://github.com/AvensLab/awesome-dotnet-core-cn) (持续更新中...)
 
 > [.NET Core](#frameworks-libraries-and-tools) 类库，工具，框架，软件，文章，书籍，视频等资源汇总。    
 有不少朋友对英文不感冒，然而对于IT这行，很多技术文档和资源大都是英文的，   
@@ -74,7 +74,7 @@
 
 ## 通用
 * [C# Programming Guide](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - 微软官方 C# 代码规范。
-* [ASP.NET Core Documentation](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.1) - 微软ASP.NET Core文档，包含入门、教程、MVC/Web Api、部署、测试等。[离线PDF文档](asp.net core 2018-07-14.pdf)
+* [ASP.NET Core Documentation](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.1) - 微软ASP.NET Core文档，包含入门、教程、MVC/Web Api、部署、测试等。[离线PDF文档](https://github.com/AvensLab/awesome-dotnet-core-cn/blob/master/asp.net%20core%202018-07-14.pdf)
 * [.NET Core Documentation](https://docs.microsoft.com/zh-cn/dotnet/core/) - 微软官方.NET Core文档，包含入门、教程、迁移、部署、测试等。
 * [.Net Core SDK](https://www.microsoft.com/net/learn/get-started/windows) - 多平台SDK安装包下载，包括安装教程。
 * [.NET Standard](https://docs.microsoft.com/zh-cn/dotnet/standard/net-standard) - .Net Standard 标准及各版本之间的异同。
