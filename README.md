@@ -6,20 +6,20 @@
 
 感谢 [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn),  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)  等做出的贡献。
 
-欢迎各路朋友添砖加瓦! 动手前 [贡献准则](https://github.com/thangchung/awesome-dotnet-core/blob/master/contributing.md) 请您先看一下。
+欢迎各路朋友添砖加瓦! 动手前 [贡献准则](https://github.com/AvensLab/awesome-dotnet-core-cn/blob/master/contributing.md) 请您先看一下。
 感谢所有 [做贡献的朋友](https://github.com/AvensLab/awesome-dotnet-core-cn/graphs/contributors)，贡献有您更精彩！
 
 ## 正文
 
-* [通用](#general)
-* [框架, 类库，工具](#frameworks-libraries-and-tools)
-  * [算法与数据结构](#algorithms-and-data-structures)
+* [通用](#通用)
+* [框架, 类库，工具](#)
+  * [算法与数据结构](#算法与数据结构)
   * [API](#api)
-  * [应用框架](#application-frameworks)
-  * [应用模板](#application-templates)
-  * [人工智能与机器学习](#artificial-intelligence)
-  * [认证和授权](#authentication-and-authorization)
-  * [区块链](#blockchain)
+  * [应用框架](#应用框架)
+  * [应用模板](#应用模板)
+  * [人工智能与机器学习](#人工智能与机器学习)
+  * [认证与授权](#认证和授权)
+  * [区块链](#区块链)
   * [机器人](#bot)
   * [自动构建](#build-automation)
   * [Web打包压缩](#bundling-and-minification)
@@ -43,7 +43,7 @@
   * [国际化](#internationalization)
   * [控制反转](#ioc)
   * [日志](#logging)
-  * [机器学习与数据科学](#machine-learning-and-data-science)
+  * [数据科学](#machine-learning-and-data-science)
   * [邮件](#mail)
   * [数学](#mathematics)
   * [网络](#networking)
@@ -74,7 +74,7 @@
 
 ## 通用
 * [C# Programming Guide](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - 微软官方 C# 代码规范。
-* [ASP.NET Core Documentation](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.1) - 微软ASP.NET Core文档，包含入门、教程、MVC/Web Api、部署、测试等。
+* [ASP.NET Core Documentation](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.1) - 微软ASP.NET Core文档，包含入门、教程、MVC/Web Api、部署、测试等。[离线PDF文档](asp.net core 2018-07-14.pdf)
 * [.NET Core Documentation](https://docs.microsoft.com/zh-cn/dotnet/core/) - 微软官方.NET Core文档，包含入门、教程、迁移、部署、测试等。
 * [.Net Core SDK](https://www.microsoft.com/net/learn/get-started/windows) - 多平台SDK安装包下载，包括安装教程。
 * [.NET Standard](https://docs.microsoft.com/zh-cn/dotnet/standard/net-standard) - .Net Standard 标准及各版本之间的异同。
